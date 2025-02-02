@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bobziest
-- 👀 I’m interested in ... python
+- 👀 I’m interested in ... python & SQL
 - 🌱 I’m currently learning ... pandas, numpy, plotly, scikit-learn
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... 
